@@ -9,4 +9,5 @@ public void testInputIsEven(){
  assertTrue(mainClass.checkIfInputIsAnEvenNumber(23)); 
  //Assertion
  }
+ /* for second commit*/
  }
